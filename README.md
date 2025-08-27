@@ -7,7 +7,7 @@
 
 This project aims to utilize CycleGan architecture and create targeted DeepFake model.
 
-It is targeted deepfake which means that you need to train it for specific 2 faces.
+It is targeted deepfake which means that you need to train it for 2 specific faces.
 
 ### Project contains essential scripts for:
 - Extracting faces from video                      (Face_extraction.py)
