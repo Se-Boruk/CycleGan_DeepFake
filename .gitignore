@@ -1,0 +1,17 @@
+# Ignore everything in these directories
+__pycache__/*
+Architecture_pngs/*
+Deepfake/*
+Extracted_Faces/*
+Model_results/*
+models/*
+Original_Data/*
+Processed_data/*
+temp/*
+
+# Exclude these files from being ignored
+!/models/model_input_shape.json
+
+
+
+

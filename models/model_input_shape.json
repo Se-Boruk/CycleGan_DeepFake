@@ -1,0 +1,8 @@
+{
+    "height": 320,
+    "width": 256,
+    "in_channels": 4,
+    "out_channels": 4,
+    "base_filters": 64,
+    "residual_blocks": 9
+}
